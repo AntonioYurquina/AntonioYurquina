@@ -50,6 +50,15 @@ encaro la interfaz, el estado y la organización del código.
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/AntonioYurquina/Hotel-Refugio"><img src="assets/hotel-refugio.webp" alt="Captura de Hotel Refugio: sitio público, panel de operador con calendario de reservas y panel de gerencia con gráficos"></a>
+      <h3>Hotel Refugio</h3>
+      <p>Sistema de gestión hotelero (proyecto de la facultad) con tres frentes: sitio público con habitaciones y reservas, panel de operador con calendario, rack de reservas y mapa de habitaciones, y panel de gerencia con ingresos, ocupación y estadía promedio. Las capturas usan datos ficticios.</p>
+      <p><code>React</code> <code>Vite</code> <code>Bootstrap</code> <code>Chart.js</code> <code>React Router</code></p>
+      <p><a href="https://github.com/AntonioYurquina/Hotel-Refugio">Código</a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://antonioyurquina.github.io/Prototipo-Startup-Modelos-3D/"><img src="assets/modelos3d.webp" alt="Captura de Mercado 3D: catálogo de modelos 3D con checkout simulado"></a>
       <h3>Mercado 3D</h3>
