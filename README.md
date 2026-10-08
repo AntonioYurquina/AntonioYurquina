@@ -51,6 +51,15 @@ encaro la interfaz, el estado y la organización del código.
 <table>
   <tr>
     <td colspan="2" valign="top">
+      <a href="https://antonioyurquina.github.io/Cuspide-Demo/"><img src="assets/cuspide.webp" alt="Captura de Cúspide: agenda del día, odontograma y plan de tratamiento listo para imprimir"></a>
+      <h3>Cúspide</h3>
+      <p>SaaS de gestión para consultorios de salud: sitio público con turnos online y tienda, y un panel con agenda, pacientes, facturación y roles con permisos. Un conmutador cambia en vivo entre odontología, medicina y kinesiología: se adaptan la ficha clínica, el vocabulario y los documentos imprimibles. Demo con datos ficticios y sin backend; el acceso es de un clic desde el ingreso.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind</code></p>
+      <p><a href="https://antonioyurquina.github.io/Cuspide-Demo/">Demo</a> · <a href="https://github.com/AntonioYurquina/Cuspide-Demo">Código</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <a href="https://github.com/AntonioYurquina/Hotel-Refugio"><img src="assets/hotel-refugio.webp" alt="Captura de Hotel Refugio: sitio público, panel de operador con calendario de reservas y panel de gerencia con gráficos"></a>
       <h3>Hotel Refugio</h3>
       <p>Sistema de gestión hotelero (proyecto de la facultad) con tres frentes: sitio público con habitaciones y reservas, panel de operador con calendario, rack de reservas y mapa de habitaciones, y panel de gerencia con ingresos, ocupación y estadía promedio. Las capturas usan datos ficticios.</p>
