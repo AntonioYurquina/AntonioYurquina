@@ -76,9 +76,9 @@ encaro la interfaz, el estado y la organización del código.
       <p><a href="https://antonioyurquina.github.io/Prototipo-Startup-Modelos-3D/">Demo</a> · <a href="https://github.com/AntonioYurquina/Prototipo-Startup-Modelos-3D">Código</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://antonioyurquina.github.io/NutriCalcApp/"><img src="assets/nutricalc.webp" alt="Captura de NutriCalc: resumen nutricional diario con gráfico de macronutrientes"></a>
+      <a href="https://antonioyurquina.github.io/NutriCalcApp/"><img src="assets/nutricalc.webp" alt="Captura de NutriCalc: lista de alimentos con cantidades editables y resumen del día con anillo de macronutrientes y meta calórica"></a>
       <h3>NutriCalc</h3>
-      <p>Calculadora de consumo nutricional: buscador de alimentos, registro de comidas y resumen diario con gráficos.</p>
+      <p>Calculadora de calorías y macros: buscador de alimentos, cantidades editables, resumen del día con meta calórica ajustable, modo oscuro y uso completo desde el teclado.</p>
       <p><code>React</code> <code>Recharts</code> <code>Tailwind</code></p>
       <p><a href="https://antonioyurquina.github.io/NutriCalcApp/">Demo</a> · <a href="https://github.com/AntonioYurquina/NutriCalcApp">Código</a></p>
     </td>
