@@ -60,11 +60,11 @@ encaro la interfaz, el estado y la organización del código.
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://github.com/AntonioYurquina/Hotel-Refugio"><img src="assets/hotel-refugio.webp" alt="Captura de Hotel Refugio: sitio público, panel de operador con calendario de reservas y panel de gerencia con gráficos"></a>
+      <a href="https://antonioyurquina.github.io/Hotel-Refugio/"><img src="assets/hotel-refugio.webp" alt="Captura de Hotel Refugio: sitio público, panel de operador con calendario de reservas y panel de gerencia con gráficos"></a>
       <h3>Hotel Refugio</h3>
-      <p>Sistema de gestión hotelero (proyecto de la facultad) con tres frentes: sitio público con habitaciones y reservas, panel de operador con calendario, rack de reservas y mapa de habitaciones, y panel de gerencia con ingresos, ocupación y estadía promedio. Las capturas usan datos ficticios.</p>
+      <p>Sistema de gestión hotelero (proyecto de la facultad) con tres frentes: sitio público con habitaciones y reservas, panel de operador con calendario, rack de reservas y mapa de habitaciones, y panel de gerencia con ingresos, ocupación y estadía promedio. Demo con datos ficticios y sin servidor; el acceso es de un clic desde el ingreso.</p>
       <p><code>React</code> <code>Vite</code> <code>Bootstrap</code> <code>Chart.js</code> <code>React Router</code></p>
-      <p><a href="https://github.com/AntonioYurquina/Hotel-Refugio">Código</a></p>
+      <p><a href="https://antonioyurquina.github.io/Hotel-Refugio/">Demo</a> · <a href="https://github.com/AntonioYurquina/Hotel-Refugio">Código</a></p>
     </td>
   </tr>
   <tr>
