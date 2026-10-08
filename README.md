@@ -69,9 +69,9 @@ encaro la interfaz, el estado y la organización del código.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://antonioyurquina.github.io/Prototipo-Startup-Modelos-3D/"><img src="assets/modelos3d.webp" alt="Captura de Mercado 3D: catálogo de modelos 3D con checkout simulado"></a>
+      <a href="https://antonioyurquina.github.io/Prototipo-Startup-Modelos-3D/"><img src="assets/modelos3d.webp" alt="Captura de Mercado 3D: portada y catálogo de modelos 3D con búsqueda y filtros por formato"></a>
       <h3>Mercado 3D</h3>
-      <p>MVP de marketplace de modelos 3D: catálogo, checkout simulado y panel operativo con métricas de conversión.</p>
+      <p>MVP de marketplace de modelos 3D: catálogo con búsqueda y filtros, checkout simulado en tres pasos y panel operativo con embudo de conversión y generador de links de descarga.</p>
       <p><code>React</code> <code>Vite</code> <code>Tailwind</code></p>
       <p><a href="https://antonioyurquina.github.io/Prototipo-Startup-Modelos-3D/">Demo</a> · <a href="https://github.com/AntonioYurquina/Prototipo-Startup-Modelos-3D">Código</a></p>
     </td>
